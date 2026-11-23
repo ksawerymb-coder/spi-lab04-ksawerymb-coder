@@ -1,0 +1,1 @@
+﻿Repozytoria Zdalne to wersje projektów przechowywane w internecie lub sieci lokalnej, które umożliwiają programistom współdzielenie kodu oraz tworzenie jego kopii zapasowych poza własnym komputerem. Użytkownicy synchronizują swoją lokalną pracę ze zdalnym serwerem za pomocą poleceń w powershell.
